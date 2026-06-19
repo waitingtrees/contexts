@@ -1,7 +1,7 @@
 // Contexts — offline app-shell cache.
 // The app is fully self-contained in index.html (fonts/JS/CSS inlined),
 // so caching the shell + icons is enough to run with no network.
-const CACHE = 'contexts-v1';
+const CACHE = 'contexts-v2';
 const ASSETS = [
   './',
   './index.html',
